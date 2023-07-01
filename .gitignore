@@ -1,0 +1,63 @@
+# Laravel specific
+.env
+.env.*
+vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+public/hot
+public/storage
+public/uploads
+public/backup
+public/thumbs
+
+# Homestead/Vagrant
+Homestead.json
+Homestead.yaml
+Vagrantfile
+.vagrant/
+
+# Laravel Mix
+npm-debug.log*
+yarn-error.log*
+
+# PHPUnit
+phpunit.xml
+/phpunit.xml.*
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+*.sublime-settings
+
+# PhpStorm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+*.swp
+*.swo
+*~
+*.log
+*.tmp
+
+# Miscellaneous
+/.sass-cache
+/.idea/
+/.phpintel/
+/_ide_helper.php
+/_ide_helper_models.php
+/.vs
+/.vagrant/
+Homestead.vmwarevm/
