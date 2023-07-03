@@ -1,5 +1,6 @@
 # Laravel specific
 .env
+notes.txt
 .env.*
 vendor/
 node_modules/
