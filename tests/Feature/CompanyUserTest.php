@@ -69,7 +69,7 @@ class CompanyUserTest extends TestCase
 
         $this->assertDatabaseMissing('users', [
             'name' => 'updated user',
-            'email' => 'test@update.com',
+            'email' => 'test1@update.com',
         ]);
     }
 }
